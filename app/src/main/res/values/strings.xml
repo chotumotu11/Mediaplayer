@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Media Player</string>
+    <string name="title_activity_media">MediaActivity</string>
+    <string name="title_activity_music">MusicActivity</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="title_activity_main_video">MainVideoActivity</string>
+</resources>
