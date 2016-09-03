@@ -1,5 +1,5 @@
 # Mediaplayer
-An Media Player for android
+A Media Player for android
 
 Credits :-
  
